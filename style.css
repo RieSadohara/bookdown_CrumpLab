@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates:ital,wght@0,300;1,400&family=Work+Sans:wght@300&display=swap');
+
+p {
+  font-family: 'Work Sans' !important;
+}
+
+
+p.caption {
+  color: #777;
+  margin-top: 10px;
+}
+p code {
+  white-space: inherit;
+}
+pre {
+  word-break: normal;
+  word-wrap: normal;
+}
+pre code {
+  white-space: inherit;
+}
+
+h1 {
+  font-size: 400;
+  font-family: 'Montserrat Alternates' !important;
+}
+
+
